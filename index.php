@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-	<title>JQuery & JSON</title>
+	<title>JQuery & JSON!</title>
 </head>
 <body>
 <div id="id"></div>
